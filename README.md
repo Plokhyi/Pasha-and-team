@@ -1,4 +1,3 @@
-# Pasha-and-team
 <!DOCTYPE html>
 <html lang="en">
 <head>
