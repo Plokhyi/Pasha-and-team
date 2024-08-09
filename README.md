@@ -1,1 +1,29 @@
 # Pasha-and-team
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pasha and team</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        img {
+            width: 1200px;
+            height: auto;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Pasha and team</h1>
+    <img src="Dan-149.jpg" alt="Image 1">
+    <img src="5307689652498588552.jpg" alt="Image 2">
+</body>
+</html>
